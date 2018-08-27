@@ -10,6 +10,18 @@ In no way do we aim to claim that the idea of the research paper is originally o
 
 The original paper is: [PersonalizedNewsRecommendation.pdf](https://github.com/vishalburman/Recommender_Engine_Google/files/2313475/35599.pdf)
 
+----------------------------------------------------------------------------------
+
+**Inferences from the log analysis of Google which provided the inspiration for the implementation:**
+1. News interest of users change over time.
+
+2. Click distribution of the general public reflects the news trends which corresponds to the big news events.
+
+3. There exists different news in different locations.
+
+4. To a certain extent, the individual user's news interest are influenced by the news trend in the location that user belongs to.
+
+
 -----------------------------------------------------------------------------------
 
 The generalized approaches that we utilized revolve around the following equations:
